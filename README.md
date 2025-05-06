@@ -16,7 +16,7 @@ Currently, I'm sharpening my skills through hands-on projects at the **Tuwaiq Ac
 
 - **Languages:** Python, SQL
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV, NLTK, Streamlit, FastAPI
-- **Database & Cloud:** MySQL, Firebase, Google Colab, Git & GitHub
+- **Database & Cloud:** MySQL, Google Colab, Git & GitHub
 - **Other:** EDA, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Dashboards (Excel, Streamlit)
 
 ---
