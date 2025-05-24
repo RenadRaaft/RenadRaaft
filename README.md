@@ -33,8 +33,8 @@ Currently, I'm sharpening my skills through hands-on projects at the **Tuwaiq Ac
 
 ## 🤝 Let's Connect
 
-![LinkedIn](https://www.linkedin.com/in/renad-yassin/)  
-- 📧 Email: yassinrenad02@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/renad-yassin/)  
+- Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
