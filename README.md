@@ -6,7 +6,7 @@
 
 ## 👩‍🔬 About Me
 
-I'm a Computer Science graduate with a GPA of **3.80/4.0**, deeply passionate about **Data Science**, **Machine Learning**, and **Deep Learning**. I enjoy turning data into insights and building AI-powered tools that solve real-world problems — especially ones that make technology more inclusive.
+I'm a Computer Science graduate, deeply passionate about **Data Science**, **Machine Learning**, and **Deep Learning**. I enjoy turning data into insights and building AI-powered tools that solve real-world problems — especially ones that make technology more inclusive.
 
 Currently, I'm sharpening my skills through hands-on projects at the **Tuwaiq Academy AI Bootcamp** and contributing to open-source work focused on NLP, computer vision, and recommendation systems.
 
